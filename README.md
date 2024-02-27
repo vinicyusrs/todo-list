@@ -2,9 +2,7 @@
   TODO List
 </h1>
 
-API para gerenciar tarefas (CRUD) que faz parte [desse desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para pessoas desenvolvedoras backend júnior, que se candidatam para a Simplify.
-
-O projeto foi elaborado [nesse vídeo](https://youtu.be/IjProDV001o).
+API para gerenciar tarefas (CRUD) 
 
 ## Tecnologias
  
